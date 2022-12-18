@@ -517,4 +517,6 @@ julien@ubuntu:~/monty/bf$ bf 1003-mul.bf
 49
 julien@ubuntu:~/monty/bf$ 
 ```
+# Author
+Manifest Chakalov
 
